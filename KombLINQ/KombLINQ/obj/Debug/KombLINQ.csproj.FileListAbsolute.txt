@@ -1,0 +1,8 @@
+C:\Users\ucenik\Documents\Raul Dominik Holik\KombLINQ\KombLINQ\bin\Debug\KombLINQ.exe.config
+C:\Users\ucenik\Documents\Raul Dominik Holik\KombLINQ\KombLINQ\bin\Debug\KombLINQ.exe
+C:\Users\ucenik\Documents\Raul Dominik Holik\KombLINQ\KombLINQ\bin\Debug\KombLINQ.pdb
+C:\Users\ucenik\Documents\Raul Dominik Holik\KombLINQ\KombLINQ\obj\Debug\KombLINQ.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\Raul Dominik Holik\KombLINQ\KombLINQ\obj\Debug\KombLINQ.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\Raul Dominik Holik\KombLINQ\KombLINQ\obj\Debug\KombLINQ.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\Raul Dominik Holik\KombLINQ\KombLINQ\obj\Debug\KombLINQ.exe
+C:\Users\ucenik\Documents\Raul Dominik Holik\KombLINQ\KombLINQ\obj\Debug\KombLINQ.pdb
